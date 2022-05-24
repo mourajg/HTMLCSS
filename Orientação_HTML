@@ -1,4 +1,3 @@
->>>
 <!DOCTYPE html> <!-- Indica que o documento está em HTML5. -->
 <html lang = "pt-br"> <!-- Esse <html> é uma tag. Elas são fechadas com o </>. --> <!-- Lang indica o idioma. -->
     <head> <!-- Parte de configurações. -->
@@ -14,4 +13,3 @@
 </html>
 <!-- <br> = Quebra de linha. -->
 <!-- <hr> = Linha. -->
->>>
