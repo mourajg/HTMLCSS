@@ -8,6 +8,20 @@
     </head>
     <body>
         <h1> Engenharia eletrônica e de telecomunicações </h1>
+        <p>
+                O curso de graduação em engenharia eletrônica e de telecomunicações apresenta,
+            além das diretrizes básicas exigidas para qualquer curso em engenharia, duas grandes linhas
+            de conhecimento. No caso da eletrônica, seu conteúdo é estritamente direcionado para
+            aplicações na área de comunicações. Deste modo, é abordado no curso um escopo mais voltado 
+            às aplicações nas telecomunicações. Ainda sobre essa linha, um considerável conteúdo de 
+            informática e programação é somado para criar uma base sólida em TI.
+                O campo de telecomunicações caracteriza-se por sólidos princípios de
+            eletromagnetismo aplicado (às telecomunicações). Esta característica permite ao estudante
+            conhecer de maneira mais ampla alguns importantes componentes de um sistema de
+            comunicação, como antenas, linhas de transmissão, processos de propagação, sistemas de
+            micro-ondas, redes ópticas e avança até os sistemas de comunicação via satélite, de
+            televisão e celulares.
+        </p>
     </body>
 </html>
 >>>
