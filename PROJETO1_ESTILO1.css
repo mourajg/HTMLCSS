@@ -1,1 +1,9 @@
-
+>>>
+@charset "UTF-8";
+body {
+    background-color: rgb(219, 200, 170);
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: center;
+}
+>>>
