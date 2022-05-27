@@ -1,2 +1,2 @@
-# HTML5_CSS3
-Nesse repositório coloquei tudo o que considerei importante para o meu aprendizado em HTML5 e CSS3 e também alguns códigos que criei para treinar.
+# PROJETO1
+Nesse repositório desenvolvi um local de estudos para um determinado conteúdo.
