@@ -1,18 +1,12 @@
 >>>
 @charset "UTF-8";
 body {
-    background-color: rgb(219, 200, 170);
+	background-color: bisque;
     font-family: Verdana;
-    font-size: 20px;
-    text-align: center;
+    font-size: 15px;
 }
-img {
-    box-shadow: #000 5px 5px 2px;
-}
-button {
-    background-color: #000000;
-    font-size: 16px;
-    border-radius: 8px;
-    padding: 12px 28px;
+input {
+    width: 40%;
+    margin: 8px 0px;
 }
 >>>
