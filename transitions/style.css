@@ -13,7 +13,7 @@ body {
 .card {
 	height: 400px;
 	width: 500px;
-	background-image: url('./pexels-mo-11592804.jpg');
+	background-image: url('imagem1.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
